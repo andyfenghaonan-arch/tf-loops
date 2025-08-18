@@ -1,12 +1,12 @@
 # Transcription Factor Chromatin Loop Database
 
-Interactive browser for FitHiChIP-derived chromatin interactions from ENCODE ChIA-PET experiments.
+Interactive browser for FitHiChIP-derived chromatin interactions from ENCODE ChIP-seq experiments.
 
 ## Features
 
 - **Academic Design**: Clean, journal-style interface optimized for research use
 - **Multi-format Data Access**: Browse and download chromatin loop data across multiple transcription factors and cell lines
-- **ENCODE Integration**: Direct access to processed ENCODE ChIA-PET experimental datasets
+- **ENCODE Integration**: Direct access to processed ENCODE ChIP-seq experimental datasets
 - **Statistical Analysis**: All loops filtered at Q-value < 0.01 using FitHiChIP algorithm
 
 ## Usage
