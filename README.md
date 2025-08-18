@@ -11,7 +11,7 @@ Interactive browser for FitHiChIP-derived chromatin interactions from ENCODE ChI
 
 ## Usage
 
-Open `index.html` in your web browser to access the interactive data matrix. Click on individual cells to download BED format files containing chromatin loop coordinates.
+[Open `index.html` in your web browser to access the interactive data matrix. Click on individual cells to download BED format files containing chromatin loop coordinates.](https://andyfenghaonan-arch.github.io/tf-loops/)
 
 ## Data Processing
 
