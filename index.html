@@ -576,7 +576,9 @@
         function updateStatistics() {
             document.getElementById('total-tfs').textContent = dataStats.total_tfs || '-';
             document.getElementById('total-datasets').textContent = dataStats.total_files || '-';
-            document.getElementById('total-cell-lines').textContent = dataStats.total_cell_lines || '-';
+            // Count unique cell lines (excluding ENCODE IDs)
+            const uniqueCellLines = getAllCellLines();
+            document.getElementById('total-cell-lines').textContent = uniqueCellLines.length || '-';
         }
 
         // Get unique cell lines (remove ENCODE ID suffix)
