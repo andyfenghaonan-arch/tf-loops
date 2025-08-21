@@ -4,154 +4,130 @@
       "MCF-7_ENCFF761ZKW": {
         "oss_key": "oss_upload_folder/loops/KLF4/MCF-7_ENCFF761ZKW/KLF4_MCF-7_ENCFF761ZKW_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/KLF4/MCF-7_ENCFF761ZKW/KLF4_MCF-7_ENCFF761ZKW_loops.bed",
-        "filename": "KLF4_MCF-7_ENCFF761ZKW_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\KLF4\\MCF-7_ENCFF761ZKW\\KLF4_ENCFF761ZKW_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_KLF4_ENCFF761ZKW.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "KLF4_MCF-7_ENCFF761ZKW_loops.bed"
       }
     },
     "NANOG": {
       "GM23338_ENCFF153EHS": {
         "oss_key": "oss_upload_folder/loops/NANOG/GM23338_ENCFF153EHS/NANOG_GM23338_ENCFF153EHS_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/NANOG/GM23338_ENCFF153EHS/NANOG_GM23338_ENCFF153EHS_loops.bed",
-        "filename": "NANOG_GM23338_ENCFF153EHS_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\NANOG\\GM23338_ENCFF153EHS\\NANOG_ENCFF153EHS_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_NANOG_ENCFF153EHS.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "NANOG_GM23338_ENCFF153EHS_loops.bed"
       },
       "H1_ENCFF926YZX": {
         "oss_key": "oss_upload_folder/loops/NANOG/H1_ENCFF926YZX/NANOG_H1_ENCFF926YZX_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/NANOG/H1_ENCFF926YZX/NANOG_H1_ENCFF926YZX_loops.bed",
-        "filename": "NANOG_H1_ENCFF926YZX_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\NANOG\\H1_ENCFF926YZX\\NANOG_ENCFF926YZX_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_NANOG_ENCFF926YZX.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "NANOG_H1_ENCFF926YZX_loops.bed"
       }
     },
     "OCT4": {
       "H1_ENCFF003PEE": {
         "oss_key": "oss_upload_folder/loops/OCT4/H1_ENCFF003PEE/OCT4_H1_ENCFF003PEE_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/OCT4/H1_ENCFF003PEE/OCT4_H1_ENCFF003PEE_loops.bed",
-        "filename": "OCT4_H1_ENCFF003PEE_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\OCT4\\H1_ENCFF003PEE\\OCT4_ENCFF003PEE_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_OCT4_ENCFF003PEE.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "OCT4_H1_ENCFF003PEE_loops.bed"
       },
       "K562_ENCFF259JPA": {
         "oss_key": "oss_upload_folder/loops/OCT4/K562_ENCFF259JPA/OCT4_K562_ENCFF259JPA_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/OCT4/K562_ENCFF259JPA/OCT4_K562_ENCFF259JPA_loops.bed",
-        "filename": "OCT4_K562_ENCFF259JPA_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\OCT4\\K562_ENCFF259JPA\\OCT4_ENCFF259JPA_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_OCT4_ENCFF259JPA.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "OCT4_K562_ENCFF259JPA_loops.bed"
       }
     },
     "Rad21": {
       "A549_ENCFF778YHU": {
         "oss_key": "oss_upload_folder/loops/Rad21/A549_ENCFF778YHU/Rad21_A549_ENCFF778YHU_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/A549_ENCFF778YHU/Rad21_A549_ENCFF778YHU_loops.bed",
-        "filename": "Rad21_A549_ENCFF778YHU_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\A549_ENCFF778YHU\\A549_ENCFF778YHU_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_A549_ENCFF778YHU.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_A549_ENCFF778YHU_loops.bed"
       },
       "GM12878_ENCFF407HJR": {
         "oss_key": "oss_upload_folder/loops/Rad21/GM12878_ENCFF407HJR/Rad21_GM12878_ENCFF407HJR_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/GM12878_ENCFF407HJR/Rad21_GM12878_ENCFF407HJR_loops.bed",
-        "filename": "Rad21_GM12878_ENCFF407HJR_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\GM12878_ENCFF407HJR\\GM12878_ENCFF407HJR_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_GM12878_ENCFF407HJR.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_GM12878_ENCFF407HJR_loops.bed"
       },
       "GM12878_ENCFF822QJA": {
         "oss_key": "oss_upload_folder/loops/Rad21/GM12878_ENCFF822QJA/Rad21_GM12878_ENCFF822QJA_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/GM12878_ENCFF822QJA/Rad21_GM12878_ENCFF822QJA_loops.bed",
-        "filename": "Rad21_GM12878_ENCFF822QJA_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\GM12878_ENCFF822QJA\\GM12878_ENCFF822QJA_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_GM12878_ENCFF822QJA.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_GM12878_ENCFF822QJA_loops.bed"
       },
       "HepG2_ENCFF619WCL": {
         "oss_key": "oss_upload_folder/loops/Rad21/HepG2_ENCFF619WCL/Rad21_HepG2_ENCFF619WCL_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/HepG2_ENCFF619WCL/Rad21_HepG2_ENCFF619WCL_loops.bed",
-        "filename": "Rad21_HepG2_ENCFF619WCL_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\HepG2_ENCFF619WCL\\HepG2_ENCFF619WCL_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_HepG2_ENCFF619WCL.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_HepG2_ENCFF619WCL_loops.bed"
       },
       "HepG2_ENCFF704FRG": {
         "oss_key": "oss_upload_folder/loops/Rad21/HepG2_ENCFF704FRG/Rad21_HepG2_ENCFF704FRG_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/HepG2_ENCFF704FRG/Rad21_HepG2_ENCFF704FRG_loops.bed",
-        "filename": "Rad21_HepG2_ENCFF704FRG_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\HepG2_ENCFF704FRG\\HepG2_ENCFF704FRG_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_HepG2_ENCFF704FRG.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_HepG2_ENCFF704FRG_loops.bed"
       },
       "K562_ENCFF377CPT": {
         "oss_key": "oss_upload_folder/loops/Rad21/K562_ENCFF377CPT/Rad21_K562_ENCFF377CPT_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/K562_ENCFF377CPT/Rad21_K562_ENCFF377CPT_loops.bed",
-        "filename": "Rad21_K562_ENCFF377CPT_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\K562_ENCFF377CPT\\K562_ENCFF377CPT_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_K562_ENCFF377CPT.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_K562_ENCFF377CPT_loops.bed"
       },
       "K562_ENCFF666JJM": {
         "oss_key": "oss_upload_folder/loops/Rad21/K562_ENCFF666JJM/Rad21_K562_ENCFF666JJM_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/K562_ENCFF666JJM/Rad21_K562_ENCFF666JJM_loops.bed",
-        "filename": "Rad21_K562_ENCFF666JJM_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\K562_ENCFF666JJM\\K562_ENCFF666JJM_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_K562_ENCFF666JJM.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_K562_ENCFF666JJM_loops.bed"
       },
       "liver_ENCFF081AYT": {
         "oss_key": "oss_upload_folder/loops/Rad21/liver_ENCFF081AYT/Rad21_liver_ENCFF081AYT_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/liver_ENCFF081AYT/Rad21_liver_ENCFF081AYT_loops.bed",
-        "filename": "Rad21_liver_ENCFF081AYT_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\liver_ENCFF081AYT\\liver_ENCFF081AYT_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_liver_ENCFF081AYT.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_liver_ENCFF081AYT_loops.bed"
       },
       "liver_ENCFF234BCG": {
         "oss_key": "oss_upload_folder/loops/Rad21/liver_ENCFF234BCG/Rad21_liver_ENCFF234BCG_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/liver_ENCFF234BCG/Rad21_liver_ENCFF234BCG_loops.bed",
-        "filename": "Rad21_liver_ENCFF234BCG_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\liver_ENCFF234BCG\\liver_ENCFF234BCG_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_liver_ENCFF234BCG.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_liver_ENCFF234BCG_loops.bed"
       },
       "liver_ENCFF422JJM": {
         "oss_key": "oss_upload_folder/loops/Rad21/liver_ENCFF422JJM/Rad21_liver_ENCFF422JJM_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/Rad21/liver_ENCFF422JJM/Rad21_liver_ENCFF422JJM_loops.bed",
-        "filename": "Rad21_liver_ENCFF422JJM_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\Rad21\\liver_ENCFF422JJM\\liver_ENCFF422JJM_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_liver_ENCFF422JJM.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "Rad21_liver_ENCFF422JJM_loops.bed"
       }
     },
     "CTCF": {
       "A549_ENCFF083AEY": {
         "oss_key": "oss_upload_folder/loops/CTCF/A549_ENCFF083AEY/CTCF_A549_ENCFF083AEY_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/A549_ENCFF083AEY/CTCF_A549_ENCFF083AEY_loops.bed",
-        "filename": "CTCF_A549_ENCFF083AEY_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\A549_ENCFF083AEY\\CTCF_ENCFF083AEY_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF083AEY.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_A549_ENCFF083AEY_loops.bed"
       },
       "GM12878_ENCFF803OXW": {
         "oss_key": "oss_upload_folder/loops/CTCF/GM12878_ENCFF803OXW/CTCF_GM12878_ENCFF803OXW_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/GM12878_ENCFF803OXW/CTCF_GM12878_ENCFF803OXW_loops.bed",
-        "filename": "CTCF_GM12878_ENCFF803OXW_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\GM12878_ENCFF803OXW\\CTCF_ENCFF803OXW_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF803OXW.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_GM12878_ENCFF803OXW_loops.bed"
       },
       "GM23338_ENCFF828IWO": {
         "oss_key": "oss_upload_folder/loops/CTCF/GM23338_ENCFF828IWO/CTCF_GM23338_ENCFF828IWO_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/GM23338_ENCFF828IWO/CTCF_GM23338_ENCFF828IWO_loops.bed",
-        "filename": "CTCF_GM23338_ENCFF828IWO_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\GM23338_ENCFF828IWO\\CTCF_ENCFF828IWO_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF828IWO.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_GM23338_ENCFF828IWO_loops.bed"
       },
       "H1_ENCFF269OPL": {
         "oss_key": "oss_upload_folder/loops/CTCF/H1_ENCFF269OPL/CTCF_H1_ENCFF269OPL_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/H1_ENCFF269OPL/CTCF_H1_ENCFF269OPL_loops.bed",
-        "filename": "CTCF_H1_ENCFF269OPL_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\H1_ENCFF269OPL\\CTCF_ENCFF269OPL_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF269OPL.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_H1_ENCFF269OPL_loops.bed"
       },
       "H9_ENCFF949ZBD": {
         "oss_key": "oss_upload_folder/loops/CTCF/H9_ENCFF949ZBD/CTCF_H9_ENCFF949ZBD_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/H9_ENCFF949ZBD/CTCF_H9_ENCFF949ZBD_loops.bed",
-        "filename": "CTCF_H9_ENCFF949ZBD_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\H9_ENCFF949ZBD\\CTCF_ENCFF949ZBD_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF949ZBD.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_H9_ENCFF949ZBD_loops.bed"
       },
       "HCT-116_ENCFF469NQU": {
         "oss_key": "oss_upload_folder/loops/CTCF/HCT-116_ENCFF469NQU/CTCF_HCT-116_ENCFF469NQU_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/HCT-116_ENCFF469NQU/CTCF_HCT-116_ENCFF469NQU_loops.bed",
-        "filename": "CTCF_HCT-116_ENCFF469NQU_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\HCT-116_ENCFF469NQU\\CTCF_ENCFF469NQU_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF469NQU.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_HCT-116_ENCFF469NQU_loops.bed"
       },
       "Hep-G2_ENCFF898ZFI": {
         "oss_key": "oss_upload_folder/loops/CTCF/Hep-G2_ENCFF898ZFI/CTCF_Hep-G2_ENCFF898ZFI_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/Hep-G2_ENCFF898ZFI/CTCF_Hep-G2_ENCFF898ZFI_loops.bed",
-        "filename": "CTCF_Hep-G2_ENCFF898ZFI_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\Hep-G2_ENCFF898ZFI\\CTCF_ENCFF898ZFI_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF898ZFI.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_Hep-G2_ENCFF898ZFI_loops.bed"
       },
       "K562_ENCFF433VSV": {
         "oss_key": "oss_upload_folder/loops/CTCF/K562_ENCFF433VSV/CTCF_K562_ENCFF433VSV_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/K562_ENCFF433VSV/CTCF_K562_ENCFF433VSV_loops.bed",
-        "filename": "CTCF_K562_ENCFF433VSV_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\K562_ENCFF433VSV\\CTCF_ENCFF433VSV_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF433VSV.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_K562_ENCFF433VSV_loops.bed"
       },
       "MCF-7_ENCFF507CRU": {
         "oss_key": "oss_upload_folder/loops/CTCF/MCF-7_ENCFF507CRU/CTCF_MCF-7_ENCFF507CRU_loops.bed",
         "download_url": "https://tf-loops.oss-cn-hangzhou.aliyuncs.com/oss_upload_folder/loops/CTCF/MCF-7_ENCFF507CRU/CTCF_MCF-7_ENCFF507CRU_loops.bed",
-        "filename": "CTCF_MCF-7_ENCFF507CRU_loops.bed",
-        "original_path": "K:\\loops_html\\loops\\transcription_factors_results\\CTCF\\MCF-7_ENCFF507CRU\\CTCF_ENCFF507CRU_fithichip_results\\FitHiChIP_Peak2Peak_b8192_L20000_U2000000\\Coverage_Bias\\FitHiC_BiasCorr\\Merge_Nearby_Interactions\\FitHiChIP_CTCF_ENCFF507CRU.interactions_FitHiC_Q0.01_MergeNearContacts.bed"
+        "filename": "CTCF_MCF-7_ENCFF507CRU_loops.bed"
       }
     }
   },
